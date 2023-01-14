@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Marcus Bynoe Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Well Hello There!",
+      "description": "👋 I'm Marcus Bynoe. Thanks for viewing my portfolio! I am an aspiring full-stack developer that is currently based in Colorado (soon to be in Washington). I'm a big lover of video games 🎮, traveling 🛫, and sports ⚽🏀🏈. Before pursuing a career in sofware development I was in the Army as a transportation management coordinator. After that, I worked logistics in the aerospace industy and also worked for TSA!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,26 +11,23 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Battle Dice",
+        "startDate": "2022",
+        "description": "A simple low-stakes dice game where you pick your dice (constructor) and play against a computer. The user puts in a username and blood type (form) for the leaderboard later on. The player with a higher roll will win. Under the game itself, it saves the results whether you win or loose (local storage).",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/battle-dice/Battle-Dice.jpg",
+          "images/portfolio/battle-dice/Battle-Dice2.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
           },
+       
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "Css 3"
           }
         ]
       },
