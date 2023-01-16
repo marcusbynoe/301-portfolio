@@ -1,115 +1,116 @@
 {
-    "basic_info": {
-      "description_header": "Well Hello There!",
-      "description": "👋 I'm Marcus Bynoe. Thanks for viewing my portfolio! I am an aspiring full-stack developer that is currently based in Colorado (soon to be in Washington). I'm a big lover of video games 🎮, traveling 🛫, and sports ⚽🏀🏈. Before pursuing a career in sofware development I was in the Army as a transportation management coordinator. After that, I worked logistics in the aerospace industy and also worked for TSA!",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
-    },
-    "projects": [
-      {
-        "title": "Battle Dice",
-        "startDate": "2022",
-        "description": "A simple low-stakes dice game where you pick your dice (constructor) and play against a computer. The user puts in a username and blood type (form) for the leaderboard later on. The player with a higher roll will win. Under the game itself, it saves the results whether you win or loose (local storage).",
-        "images": [
-          "images/portfolio/battle-dice/Battle-Dice.jpg",
-          "images/portfolio/battle-dice/Battle-Dice2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-       
-          {
-            "class": "devicon-css3-plain",
-            "name": "Css 3"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
+  "basic_info": {
+    "description_header": "Well Hello There!",
+    "description": "👋 I'm Marcus Bynoe. Thanks for viewing my portfolio! I am an aspiring full-stack developer that is currently based in Colorado (soon to be in Washington). I'm a big lover of video games 🎮, traveling 🛫, and sports ⚽🏀🏈. Before pursuing a career in sofware development I was in the Army as a transportation management coordinator. After that, I worked logistics in the aerospace industy and also worked for TSA!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Salmon Cookies",
+      "startDate": "2021",
+      "description": "A rudimentary store front for a fictional food product 'Salmon Cookies'. One of my first projects to incorporate HTML, CSS and JavaScript.",
+      "images": [
+        "images/portfolio/SalmonCookie/salmon-cookies.jpg",
+        "images/portfolio/SalmonCookie/salmon-cookies2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css 3"
+        },
+        {
+          "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+        }
+        
+      ]
+    },
+    {
+      "title": "Battle Dice",
+      "startDate": "2022",
+      "description": "A simple low-stakes dice game where you pick your dice (constructor) and play against a computer. The user puts in a username and blood type (form) for the leaderboard later on. The player with a higher roll will win. Under the game itself, it saves the results whether you win or loose (local storage).",
+      "images": [
+        "images/portfolio/battle-dice/Battle-Dice.jpg",
+        "images/portfolio/battle-dice/Battle-Dice2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "Css 3"
+        }
+      ]
+    },
+    {
+      "title": "Project TBD",
+      "startDate": "2022",
+      "description": "This is a placeholder for an undetermined project. Who knows.... it could be the next angry birds.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "Student",
+      "years": "11.2022 - Present",
+      "mainTech": [
+        "JavaScript"
+      ],
+      "technologies": [
+        "Bootstrap",
+        "HTML5",
+        "CSS",
+        "HTML5"
+      ]
+    },
+    {
+      "company": "Zynex Medical",
+      "title": "Billing Specialist",
+      "years": "05.2022 - 10.2022",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        ""
+        
+    
+      ]
+    }
+  ]
+}
